@@ -2,3 +2,4 @@ test.db
 go.mod
 go.sum
 **/*_templ.go
+tags
